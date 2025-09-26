@@ -11,7 +11,7 @@ Este proyecto es un asistente de voz virtual desarrollado en Python que puede re
 - Soporte para comandos personalizados.
 
 ## Requisitos
-- Python 3.x
+- Python 3.6 ⬆️
 - Bibliotecas de Python:
   - speech_recognition
   - pyttsx3
